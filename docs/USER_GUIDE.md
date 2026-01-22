@@ -293,7 +293,7 @@ You can create or edit JSON files manually. Format:
 ```json
 {
   "version": "1.0",
-  "exportDate": "2025-01-15T10:30:00.000Z",
+  "exportDate": "2026-01-15T10:30:00.000Z",
   "decks": [
     {
       "name": "My Deck",
@@ -471,4 +471,4 @@ If you encounter issues not covered in this guide:
 2. Submit a bug report with detailed information
 3. Include your device type, OS version, and app version
 
-Version 0.1.0 | © 2025 | Developed by SC.
+Version 0.1.0 | © 2026 | Developed by SC.

@@ -236,7 +236,7 @@ Decks are exported in JSON format with the following structure:
 ```json
 {
   "version": "1.0",
-  "exportDate": "2025-01-15T10:30:00.000Z",
+  "exportDate": "2026-01-15T10:30:00.000Z",
   "decks": [
     {
       "name": "Deck Name",
@@ -347,7 +347,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ## License
 
-Copyright © 2025 SC.
+Copyright © 2026 SC.
 
 ## Support
 

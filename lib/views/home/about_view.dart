@@ -42,7 +42,7 @@ class AboutView extends StatelessWidget {
               style: Theme.of(context).textTheme.bodyMedium,
             ),
             const SizedBox(height: 8),
-            Text('© 2025', style: Theme.of(context).textTheme.bodySmall),
+            Text('© 2026', style: Theme.of(context).textTheme.bodySmall),
             const SizedBox(height: 24),
             Text(
               l10n.translate(
