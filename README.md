@@ -2,6 +2,13 @@
 
 A flashcard application for memorizing vocabulary, developed in Flutter.
 
+<p float="left"> 
+<img src="covers/cover1.jpg" width="200" />
+<img src="covers/cover2.jpg" width="200" /> 
+<img src="covers/cover3.jpg" width="200" /> 
+<img src="covers/cover4.jpg" width="200" /> 
+</p>
+
 ## 📚 Documentation
 
 - **[User Guide](docs/USER_GUIDE.md)**: Complete guide for using the app
