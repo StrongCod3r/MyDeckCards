@@ -1,0 +1,924 @@
+{
+  "version": "1.0",
+  "exportDate": "2025-12-18T00:00:00.000Z",
+  "decks": [
+    {
+      "name": "Español B2",
+      "icon": "🇪🇸",
+      "cards": [
+        {
+          "front": "abandonar",
+          "back": "abandon"
+        },
+        {
+          "front": "abolir",
+          "back": "abolish"
+        },
+        {
+          "front": "absorber",
+          "back": "absorb"
+        },
+        {
+          "front": "abstracto",
+          "back": "abstract"
+        },
+        {
+          "front": "abusar",
+          "back": "abuse"
+        },
+        {
+          "front": "acelerar",
+          "back": "accelerate"
+        },
+        {
+          "front": "aceptar",
+          "back": "accept"
+        },
+        {
+          "front": "acceso",
+          "back": "access"
+        },
+        {
+          "front": "acomodar",
+          "back": "accommodate"
+        },
+        {
+          "front": "acompañar",
+          "back": "accompany"
+        },
+        {
+          "front": "lograr",
+          "back": "accomplish"
+        },
+        {
+          "front": "acuerdo",
+          "back": "accord"
+        },
+        {
+          "front": "cuenta",
+          "back": "account"
+        },
+        {
+          "front": "acumular",
+          "back": "accumulate"
+        },
+        {
+          "front": "preciso",
+          "back": "accurate"
+        },
+        {
+          "front": "acusar",
+          "back": "accuse"
+        },
+        {
+          "front": "adquirir",
+          "back": "acquire"
+        },
+        {
+          "front": "adaptar",
+          "back": "adapt"
+        },
+        {
+          "front": "adecuado",
+          "back": "adequate"
+        },
+        {
+          "front": "adherir",
+          "back": "adhere"
+        },
+        {
+          "front": "ajustar",
+          "back": "adjust"
+        },
+        {
+          "front": "administrar",
+          "back": "administer"
+        },
+        {
+          "front": "admirar",
+          "back": "admire"
+        },
+        {
+          "front": "adoptar",
+          "back": "adopt"
+        },
+        {
+          "front": "avanzar",
+          "back": "advance"
+        },
+        {
+          "front": "ventaja",
+          "back": "advantage"
+        },
+        {
+          "front": "aventura",
+          "back": "adventure"
+        },
+        {
+          "front": "anunciar",
+          "back": "advertise"
+        },
+        {
+          "front": "abogar",
+          "back": "advocate"
+        },
+        {
+          "front": "afectar",
+          "back": "affect"
+        },
+        {
+          "front": "agresivo",
+          "back": "aggressive"
+        },
+        {
+          "front": "ayuda",
+          "back": "aid"
+        },
+        {
+          "front": "objetivo",
+          "back": "aim"
+        },
+        {
+          "front": "alarma",
+          "back": "alarm"
+        },
+        {
+          "front": "alerta",
+          "back": "alert"
+        },
+        {
+          "front": "asignar",
+          "back": "allocate"
+        },
+        {
+          "front": "alterar",
+          "back": "alter"
+        },
+        {
+          "front": "alternativa",
+          "back": "alternative"
+        },
+        {
+          "front": "asombrar",
+          "back": "amaze"
+        },
+        {
+          "front": "ambición",
+          "back": "ambition"
+        },
+        {
+          "front": "enmendar",
+          "back": "amend"
+        },
+        {
+          "front": "amplio",
+          "back": "ample"
+        },
+        {
+          "front": "analizar",
+          "back": "analyze"
+        },
+        {
+          "front": "ancestro",
+          "back": "ancestor"
+        },
+        {
+          "front": "ancla",
+          "back": "anchor"
+        },
+        {
+          "front": "antiguo",
+          "back": "ancient"
+        },
+        {
+          "front": "ángulo",
+          "back": "angle"
+        },
+        {
+          "front": "aniversario",
+          "back": "anniversary"
+        },
+        {
+          "front": "anticipar",
+          "back": "anticipate"
+        },
+        {
+          "front": "ansiedad",
+          "back": "anxiety"
+        },
+        {
+          "front": "aparte",
+          "back": "apart"
+        },
+        {
+          "front": "aparente",
+          "back": "apparent"
+        },
+        {
+          "front": "apelar",
+          "back": "appeal"
+        },
+        {
+          "front": "apetito",
+          "back": "appetite"
+        },
+        {
+          "front": "aplaudir",
+          "back": "applaud"
+        },
+        {
+          "front": "aparato",
+          "back": "appliance"
+        },
+        {
+          "front": "designar",
+          "back": "appoint"
+        },
+        {
+          "front": "aprobar",
+          "back": "approve"
+        },
+        {
+          "front": "arbitrario",
+          "back": "arbitrary"
+        },
+        {
+          "front": "arquitectura",
+          "back": "architecture"
+        },
+        {
+          "front": "arena",
+          "back": "arena"
+        },
+        {
+          "front": "surgir",
+          "back": "arise"
+        },
+        {
+          "front": "despertar",
+          "back": "arouse"
+        },
+        {
+          "front": "matriz",
+          "back": "array"
+        },
+        {
+          "front": "arrestar",
+          "back": "arrest"
+        },
+        {
+          "front": "artefacto",
+          "back": "artifact"
+        },
+        {
+          "front": "artificial",
+          "back": "artificial"
+        },
+        {
+          "front": "ascender",
+          "back": "ascend"
+        },
+        {
+          "front": "aspecto",
+          "back": "aspect"
+        },
+        {
+          "front": "aspirar",
+          "back": "aspire"
+        },
+        {
+          "front": "asalto",
+          "back": "assault"
+        },
+        {
+          "front": "ensamblar",
+          "back": "assemble"
+        },
+        {
+          "front": "afirmar",
+          "back": "assert"
+        },
+        {
+          "front": "evaluar",
+          "back": "assess"
+        },
+        {
+          "front": "activo",
+          "back": "asset"
+        },
+        {
+          "front": "asignar",
+          "back": "assign"
+        },
+        {
+          "front": "asistir",
+          "back": "assist"
+        },
+        {
+          "front": "asociar",
+          "back": "associate"
+        },
+        {
+          "front": "asegurar",
+          "back": "assure"
+        },
+        {
+          "front": "asombrar",
+          "back": "astonish"
+        },
+        {
+          "front": "atmósfera",
+          "back": "atmosphere"
+        },
+        {
+          "front": "intento",
+          "back": "attempt"
+        },
+        {
+          "front": "atributo",
+          "back": "attribute"
+        },
+        {
+          "front": "audiencia",
+          "back": "audience"
+        },
+        {
+          "front": "auténtico",
+          "back": "authentic"
+        },
+        {
+          "front": "autoridad",
+          "back": "authority"
+        },
+        {
+          "front": "automático",
+          "back": "automatic"
+        },
+        {
+          "front": "disponible",
+          "back": "available"
+        },
+        {
+          "front": "avenida",
+          "back": "avenue"
+        },
+        {
+          "front": "promedio",
+          "back": "average"
+        },
+        {
+          "front": "consciente",
+          "back": "aware"
+        },
+        {
+          "front": "incómodo",
+          "back": "awkward"
+        },
+        {
+          "front": "fondo",
+          "back": "background"
+        },
+        {
+          "front": "hacia atrás",
+          "back": "backward"
+        },
+        {
+          "front": "bacteria",
+          "back": "bacteria"
+        },
+        {
+          "front": "equilibrio",
+          "back": "balance"
+        },
+        {
+          "front": "prohibir",
+          "back": "ban"
+        },
+        {
+          "front": "desnudo",
+          "back": "bare"
+        },
+        {
+          "front": "negociar",
+          "back": "bargain"
+        },
+        {
+          "front": "barrera",
+          "back": "barrier"
+        },
+        {
+          "front": "base",
+          "back": "basis"
+        },
+        {
+          "front": "batería",
+          "back": "battery"
+        },
+        {
+          "front": "nombre",
+          "back": "behalf"
+        },
+        {
+          "front": "beneficioso",
+          "back": "beneficial"
+        },
+        {
+          "front": "beneficio",
+          "back": "benefit"
+        },
+        {
+          "front": "traicionar",
+          "back": "betray"
+        },
+        {
+          "front": "sesgo",
+          "back": "bias"
+        },
+        {
+          "front": "mil millones",
+          "back": "billion"
+        },
+        {
+          "front": "vincular",
+          "back": "bind"
+        },
+        {
+          "front": "biografía",
+          "back": "biography"
+        },
+        {
+          "front": "explosión",
+          "back": "blast"
+        },
+        {
+          "front": "mezclar",
+          "back": "blend"
+        },
+        {
+          "front": "bendecir",
+          "back": "bless"
+        },
+        {
+          "front": "ciego",
+          "back": "blind"
+        },
+        {
+          "front": "florecer",
+          "back": "bloom"
+        },
+        {
+          "front": "junta",
+          "back": "board"
+        },
+        {
+          "front": "presumir",
+          "back": "boast"
+        },
+        {
+          "front": "audaz",
+          "back": "bold"
+        },
+        {
+          "front": "vínculo",
+          "back": "bond"
+        },
+        {
+          "front": "impulsar",
+          "back": "boost"
+        },
+        {
+          "front": "frontera",
+          "back": "border"
+        },
+        {
+          "front": "molestar",
+          "back": "bother"
+        },
+        {
+          "front": "límite",
+          "back": "boundary"
+        },
+        {
+          "front": "marca",
+          "back": "brand"
+        },
+        {
+          "front": "valiente",
+          "back": "brave"
+        },
+        {
+          "front": "violación",
+          "back": "breach"
+        },
+        {
+          "front": "avance",
+          "back": "breakthrough"
+        },
+        {
+          "front": "criar",
+          "back": "breed"
+        },
+        {
+          "front": "breve",
+          "back": "brief"
+        },
+        {
+          "front": "brillante",
+          "back": "brilliant"
+        },
+        {
+          "front": "amplio",
+          "back": "broad"
+        },
+        {
+          "front": "transmitir",
+          "back": "broadcast"
+        },
+        {
+          "front": "presupuesto",
+          "back": "budget"
+        },
+        {
+          "front": "carga",
+          "back": "burden"
+        },
+        {
+          "front": "oficina",
+          "back": "bureau"
+        },
+        {
+          "front": "estallar",
+          "back": "burst"
+        },
+        {
+          "front": "enterrar",
+          "back": "bury"
+        },
+        {
+          "front": "gabinete",
+          "back": "cabinet"
+        },
+        {
+          "front": "cable",
+          "back": "cable"
+        },
+        {
+          "front": "calcular",
+          "back": "calculate"
+        },
+        {
+          "front": "campaña",
+          "back": "campaign"
+        },
+        {
+          "front": "capaz",
+          "back": "capable"
+        },
+        {
+          "front": "capacidad",
+          "back": "capacity"
+        },
+        {
+          "front": "capital",
+          "back": "capital"
+        },
+        {
+          "front": "capturar",
+          "back": "capture"
+        },
+        {
+          "front": "carbono",
+          "back": "carbon"
+        },
+        {
+          "front": "carrera",
+          "back": "career"
+        },
+        {
+          "front": "carga",
+          "back": "cargo"
+        },
+        {
+          "front": "portador",
+          "back": "carrier"
+        },
+        {
+          "front": "lanzar",
+          "back": "cast"
+        },
+        {
+          "front": "casual",
+          "back": "casual"
+        },
+        {
+          "front": "víctima",
+          "back": "casualty"
+        },
+        {
+          "front": "catálogo",
+          "back": "catalog"
+        },
+        {
+          "front": "categoría",
+          "back": "category"
+        },
+        {
+          "front": "precaución",
+          "back": "caution"
+        },
+        {
+          "front": "cesar",
+          "back": "cease"
+        },
+        {
+          "front": "techo",
+          "back": "ceiling"
+        },
+        {
+          "front": "cementerio",
+          "back": "cemetery"
+        },
+        {
+          "front": "censo",
+          "back": "census"
+        },
+        {
+          "front": "ceremonia",
+          "back": "ceremony"
+        },
+        {
+          "front": "cierto",
+          "back": "certain"
+        },
+        {
+          "front": "certificado",
+          "back": "certificate"
+        },
+        {
+          "front": "cadena",
+          "back": "chain"
+        },
+        {
+          "front": "desafío",
+          "back": "challenge"
+        },
+        {
+          "front": "cámara",
+          "back": "chamber"
+        },
+        {
+          "front": "campeón",
+          "back": "champion"
+        },
+        {
+          "front": "canal",
+          "back": "channel"
+        },
+        {
+          "front": "capítulo",
+          "back": "chapter"
+        },
+        {
+          "front": "personaje",
+          "back": "character"
+        },
+        {
+          "front": "característica",
+          "back": "characteristic"
+        },
+        {
+          "front": "carta",
+          "back": "charter"
+        },
+        {
+          "front": "químico",
+          "back": "chemical"
+        },
+        {
+          "front": "apreciar",
+          "back": "cherish"
+        },
+        {
+          "front": "jefe",
+          "back": "chief"
+        },
+        {
+          "front": "circunstancia",
+          "back": "circumstance"
+        },
+        {
+          "front": "ciudadano",
+          "back": "citizen"
+        },
+        {
+          "front": "civil",
+          "back": "civil"
+        },
+        {
+          "front": "civilización",
+          "back": "civilization"
+        },
+        {
+          "front": "aclarar",
+          "back": "clarify"
+        },
+        {
+          "front": "clásico",
+          "back": "classic"
+        },
+        {
+          "front": "clasificar",
+          "back": "classify"
+        },
+        {
+          "front": "cláusula",
+          "back": "clause"
+        },
+        {
+          "front": "clima",
+          "back": "climate"
+        },
+        {
+          "front": "coalición",
+          "back": "coalition"
+        },
+        {
+          "front": "código",
+          "back": "code"
+        },
+        {
+          "front": "coherente",
+          "back": "coherent"
+        },
+        {
+          "front": "coincidir",
+          "back": "coincide"
+        },
+        {
+          "front": "colapso",
+          "back": "collapse"
+        },
+        {
+          "front": "colega",
+          "back": "colleague"
+        },
+        {
+          "front": "colectivo",
+          "back": "collective"
+        },
+        {
+          "front": "colonial",
+          "back": "colonial"
+        },
+        {
+          "front": "colonia",
+          "back": "colony"
+        },
+        {
+          "front": "combatir",
+          "back": "combat"
+        },
+        {
+          "front": "comedia",
+          "back": "comedy"
+        },
+        {
+          "front": "comando",
+          "back": "command"
+        },
+        {
+          "front": "comenzar",
+          "back": "commence"
+        },
+        {
+          "front": "comercio",
+          "back": "commerce"
+        },
+        {
+          "front": "comisión",
+          "back": "commission"
+        },
+        {
+          "front": "cometer",
+          "back": "commit"
+        },
+        {
+          "front": "comité",
+          "back": "committee"
+        },
+        {
+          "front": "mercancía",
+          "back": "commodity"
+        },
+        {
+          "front": "común",
+          "back": "common"
+        },
+        {
+          "front": "comunidad",
+          "back": "community"
+        },
+        {
+          "front": "compañero",
+          "back": "companion"
+        },
+        {
+          "front": "compañía",
+          "back": "company"
+        },
+        {
+          "front": "comparable",
+          "back": "comparable"
+        },
+        {
+          "front": "comparativo",
+          "back": "comparative"
+        },
+        {
+          "front": "compasión",
+          "back": "compassion"
+        },
+        {
+          "front": "compatible",
+          "back": "compatible"
+        },
+        {
+          "front": "obligar",
+          "back": "compel"
+        },
+        {
+          "front": "compensar",
+          "back": "compensate"
+        },
+        {
+          "front": "competente",
+          "back": "competent"
+        },
+        {
+          "front": "competitivo",
+          "back": "competitive"
+        },
+        {
+          "front": "compilar",
+          "back": "compile"
+        },
+        {
+          "front": "complemento",
+          "back": "complement"
+        },
+        {
+          "front": "complejo",
+          "back": "complex"
+        },
+        {
+          "front": "complicar",
+          "back": "complicate"
+        },
+        {
+          "front": "componente",
+          "back": "component"
+        },
+        {
+          "front": "componer",
+          "back": "compose"
+        },
+        {
+          "front": "compuesto",
+          "back": "compound"
+        },
+        {
+          "front": "comprender",
+          "back": "comprehend"
+        },
+        {
+          "front": "integral",
+          "back": "comprehensive"
+        },
+        {
+          "front": "comprender",
+          "back": "comprise"
+        },
+        {
+          "front": "compromiso",
+          "back": "compromise"
+        },
+        {
+          "front": "obligatorio",
+          "back": "compulsory"
+        },
+        {
+          "front": "ocultar",
+          "back": "conceal"
+        },
+        {
+          "front": "conceder",
+          "back": "concede"
+        },
+        {
+          "front": "concebir",
+          "back": "conceive"
+        }
+      ]
+    }
+  ]
+}

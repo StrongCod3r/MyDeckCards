@@ -1,0 +1,896 @@
+{
+  "version": "1.0",
+  "exportDate": "2025-12-18T00:00:00.000Z",
+  "decks": [
+    {
+      "name": "Español C1",
+      "icon": "🇪🇸",
+      "cards": [
+        {
+          "front": "disminuir",
+          "back": "abate"
+        },
+        {
+          "front": "abreviar",
+          "back": "abbreviate"
+        },
+        {
+          "front": "abdicar",
+          "back": "abdicate"
+        },
+        {
+          "front": "aberración",
+          "back": "aberration"
+        },
+        {
+          "front": "aborrecer",
+          "back": "abhor"
+        },
+        {
+          "front": "cumplir",
+          "back": "abide"
+        },
+        {
+          "front": "abundar",
+          "back": "abound"
+        },
+        {
+          "front": "resumir",
+          "back": "abridge"
+        },
+        {
+          "front": "abrogar",
+          "back": "abrogate"
+        },
+        {
+          "front": "abrupto",
+          "back": "abrupt"
+        },
+        {
+          "front": "absolver",
+          "back": "absolve"
+        },
+        {
+          "front": "abstenerse",
+          "back": "abstain"
+        },
+        {
+          "front": "absurdo",
+          "back": "absurd"
+        },
+        {
+          "front": "abundancia",
+          "back": "abundance"
+        },
+        {
+          "front": "academia",
+          "back": "academy"
+        },
+        {
+          "front": "acentuar",
+          "back": "accentuate"
+        },
+        {
+          "front": "accesible",
+          "back": "accessible"
+        },
+        {
+          "front": "aclamar",
+          "back": "acclaim"
+        },
+        {
+          "front": "elogio",
+          "back": "accolade"
+        },
+        {
+          "front": "responsable",
+          "back": "accountable"
+        },
+        {
+          "front": "acreditación",
+          "back": "accreditation"
+        },
+        {
+          "front": "acumular",
+          "back": "accrue"
+        },
+        {
+          "front": "ácido",
+          "back": "acerbic"
+        },
+        {
+          "front": "reconocer",
+          "back": "acknowledge"
+        },
+        {
+          "front": "conocido",
+          "back": "acquaintance"
+        },
+        {
+          "front": "consentir",
+          "back": "acquiesce"
+        },
+        {
+          "front": "adquisición",
+          "back": "acquisition"
+        },
+        {
+          "front": "absolver",
+          "back": "acquit"
+        },
+        {
+          "front": "acre",
+          "back": "acrid"
+        },
+        {
+          "front": "acrimonioso",
+          "back": "acrimonious"
+        },
+        {
+          "front": "perspicacia",
+          "back": "acumen"
+        },
+        {
+          "front": "agudo",
+          "back": "acute"
+        },
+        {
+          "front": "inflexible",
+          "back": "adamant"
+        },
+        {
+          "front": "apéndice",
+          "back": "addendum"
+        },
+        {
+          "front": "experto",
+          "back": "adept"
+        },
+        {
+          "front": "adherente",
+          "back": "adherent"
+        },
+        {
+          "front": "adyacente",
+          "back": "adjacent"
+        },
+        {
+          "front": "adjunto",
+          "back": "adjunct"
+        },
+        {
+          "front": "administrador",
+          "back": "administrator"
+        },
+        {
+          "front": "admisión",
+          "back": "admittance"
+        },
+        {
+          "front": "amonestar",
+          "back": "admonish"
+        },
+        {
+          "front": "adornar",
+          "back": "adorn"
+        },
+        {
+          "front": "hábil",
+          "back": "adroit"
+        },
+        {
+          "front": "adulación",
+          "back": "adulation"
+        },
+        {
+          "front": "adulterar",
+          "back": "adulterate"
+        },
+        {
+          "front": "advenimiento",
+          "back": "advent"
+        },
+        {
+          "front": "adversario",
+          "back": "adversary"
+        },
+        {
+          "front": "adverso",
+          "back": "adverse"
+        },
+        {
+          "front": "adversidad",
+          "back": "adversity"
+        },
+        {
+          "front": "defensa",
+          "back": "advocacy"
+        },
+        {
+          "front": "estético",
+          "back": "aesthetic"
+        },
+        {
+          "front": "afable",
+          "back": "affable"
+        },
+        {
+          "front": "afecto",
+          "back": "affection"
+        },
+        {
+          "front": "declaración jurada",
+          "back": "affidavit"
+        },
+        {
+          "front": "afiliar",
+          "back": "affiliate"
+        },
+        {
+          "front": "afinidad",
+          "back": "affinity"
+        },
+        {
+          "front": "afirmar",
+          "back": "affirm"
+        },
+        {
+          "front": "afligir",
+          "back": "afflict"
+        },
+        {
+          "front": "próspero",
+          "back": "affluent"
+        },
+        {
+          "front": "secuela",
+          "back": "aftermath"
+        },
+        {
+          "front": "agenda",
+          "back": "agenda"
+        },
+        {
+          "front": "agravar",
+          "back": "aggravate"
+        },
+        {
+          "front": "agregar",
+          "back": "aggregate"
+        },
+        {
+          "front": "agresión",
+          "back": "aggression"
+        },
+        {
+          "front": "ágil",
+          "back": "agile"
+        },
+        {
+          "front": "agitar",
+          "back": "agitate"
+        },
+        {
+          "front": "agonía",
+          "back": "agony"
+        },
+        {
+          "front": "agrario",
+          "back": "agrarian"
+        },
+        {
+          "front": "agricultura",
+          "back": "agriculture"
+        },
+        {
+          "front": "dolencia",
+          "back": "ailment"
+        },
+        {
+          "front": "aunque",
+          "back": "albeit"
+        },
+        {
+          "front": "alquimia",
+          "back": "alchemy"
+        },
+        {
+          "front": "alienar",
+          "back": "alienate"
+        },
+        {
+          "front": "aliviar",
+          "back": "alleviate"
+        },
+        {
+          "front": "alianza",
+          "back": "alliance"
+        },
+        {
+          "front": "aludir",
+          "back": "allude"
+        },
+        {
+          "front": "atractivo",
+          "back": "allure"
+        },
+        {
+          "front": "aliado",
+          "back": "ally"
+        },
+        {
+          "front": "distante",
+          "back": "aloof"
+        },
+        {
+          "front": "alteración",
+          "back": "alteration"
+        },
+        {
+          "front": "altercado",
+          "back": "altercation"
+        },
+        {
+          "front": "altitud",
+          "back": "altitude"
+        },
+        {
+          "front": "altruista",
+          "back": "altruistic"
+        },
+        {
+          "front": "fusionar",
+          "back": "amalgamate"
+        },
+        {
+          "front": "aficionado",
+          "back": "amateur"
+        },
+        {
+          "front": "embajador",
+          "back": "ambassador"
+        },
+        {
+          "front": "ambiguo",
+          "back": "ambiguous"
+        },
+        {
+          "front": "ambivalente",
+          "back": "ambivalent"
+        },
+        {
+          "front": "mejorar",
+          "back": "ameliorate"
+        },
+        {
+          "front": "dispuesto",
+          "back": "amenable"
+        },
+        {
+          "front": "comodidad",
+          "back": "amenity"
+        },
+        {
+          "front": "amistoso",
+          "back": "amiable"
+        },
+        {
+          "front": "amigable",
+          "back": "amicable"
+        },
+        {
+          "front": "munición",
+          "back": "ammunition"
+        },
+        {
+          "front": "amnesia",
+          "back": "amnesia"
+        },
+        {
+          "front": "amnistía",
+          "back": "amnesty"
+        },
+        {
+          "front": "amorfo",
+          "back": "amorphous"
+        },
+        {
+          "front": "amplificar",
+          "back": "amplify"
+        },
+        {
+          "front": "análogo",
+          "back": "analogous"
+        },
+        {
+          "front": "analogía",
+          "back": "analogy"
+        },
+        {
+          "front": "anarquista",
+          "back": "anarchist"
+        },
+        {
+          "front": "anarquía",
+          "back": "anarchy"
+        },
+        {
+          "front": "anatomía",
+          "back": "anatomy"
+        },
+        {
+          "front": "ascendencia",
+          "back": "ancestry"
+        },
+        {
+          "front": "anécdota",
+          "back": "anecdote"
+        },
+        {
+          "front": "animar",
+          "back": "animate"
+        },
+        {
+          "front": "animosidad",
+          "back": "animosity"
+        },
+        {
+          "front": "anexar",
+          "back": "annex"
+        },
+        {
+          "front": "aniquilar",
+          "back": "annihilate"
+        },
+        {
+          "front": "anotar",
+          "back": "annotate"
+        },
+        {
+          "front": "anular",
+          "back": "annul"
+        },
+        {
+          "front": "anomalía",
+          "back": "anomaly"
+        },
+        {
+          "front": "anónimo",
+          "back": "anonymous"
+        },
+        {
+          "front": "antagonista",
+          "back": "antagonist"
+        },
+        {
+          "front": "antagonizar",
+          "back": "antagonize"
+        },
+        {
+          "front": "antecedente",
+          "back": "antecedent"
+        },
+        {
+          "front": "antología",
+          "back": "anthology"
+        },
+        {
+          "front": "antropología",
+          "back": "anthropology"
+        },
+        {
+          "front": "antídoto",
+          "back": "antidote"
+        },
+        {
+          "front": "anticuado",
+          "back": "antiquated"
+        },
+        {
+          "front": "antiguo",
+          "back": "antique"
+        },
+        {
+          "front": "antiséptico",
+          "back": "antiseptic"
+        },
+        {
+          "front": "antítesis",
+          "back": "antithesis"
+        },
+        {
+          "front": "apatía",
+          "back": "apathy"
+        },
+        {
+          "front": "ápice",
+          "back": "apex"
+        },
+        {
+          "front": "apocalipsis",
+          "back": "apocalypse"
+        },
+        {
+          "front": "apologético",
+          "back": "apologetic"
+        },
+        {
+          "front": "disculpa",
+          "back": "apology"
+        },
+        {
+          "front": "apóstol",
+          "back": "apostle"
+        },
+        {
+          "front": "horrorizar",
+          "back": "appall"
+        },
+        {
+          "front": "aparato",
+          "back": "apparatus"
+        },
+        {
+          "front": "vestimenta",
+          "back": "apparel"
+        },
+        {
+          "front": "apéndice",
+          "back": "appendix"
+        },
+        {
+          "front": "aplicable",
+          "back": "applicable"
+        },
+        {
+          "front": "solicitante",
+          "back": "applicant"
+        },
+        {
+          "front": "aplicación",
+          "back": "application"
+        },
+        {
+          "front": "evaluación",
+          "back": "appraisal"
+        },
+        {
+          "front": "apreciar",
+          "back": "appreciate"
+        },
+        {
+          "front": "aprehender",
+          "back": "apprehend"
+        },
+        {
+          "front": "aprensivo",
+          "back": "apprehensive"
+        },
+        {
+          "front": "aprendiz",
+          "back": "apprentice"
+        },
+        {
+          "front": "apropiado",
+          "back": "appropriate"
+        },
+        {
+          "front": "aproximado",
+          "back": "approximate"
+        },
+        {
+          "front": "aptitud",
+          "back": "aptitude"
+        },
+        {
+          "front": "arbitrario",
+          "back": "arbitrary"
+        },
+        {
+          "front": "arbitrar",
+          "back": "arbitrate"
+        },
+        {
+          "front": "arcada",
+          "back": "arcade"
+        },
+        {
+          "front": "arqueología",
+          "back": "archaeology"
+        },
+        {
+          "front": "arcaico",
+          "back": "archaic"
+        },
+        {
+          "front": "arzobispo",
+          "back": "archbishop"
+        },
+        {
+          "front": "arquitecto",
+          "back": "architect"
+        },
+        {
+          "front": "archivo",
+          "back": "archive"
+        },
+        {
+          "front": "ardiente",
+          "back": "ardent"
+        },
+        {
+          "front": "arduo",
+          "back": "arduous"
+        },
+        {
+          "front": "aristocracia",
+          "back": "aristocracy"
+        },
+        {
+          "front": "aristócrata",
+          "back": "aristocrat"
+        },
+        {
+          "front": "aritmética",
+          "back": "arithmetic"
+        },
+        {
+          "front": "armamento",
+          "back": "armament"
+        },
+        {
+          "front": "armisticio",
+          "back": "armistice"
+        },
+        {
+          "front": "armadura",
+          "back": "armour"
+        },
+        {
+          "front": "aromático",
+          "back": "aromatic"
+        },
+        {
+          "front": "acusar",
+          "back": "arraign"
+        },
+        {
+          "front": "arrogante",
+          "back": "arrogant"
+        },
+        {
+          "front": "arsenal",
+          "back": "arsenal"
+        },
+        {
+          "front": "incendio provocado",
+          "back": "arson"
+        },
+        {
+          "front": "arterial",
+          "back": "arterial"
+        },
+        {
+          "front": "arteria",
+          "back": "artery"
+        },
+        {
+          "front": "articular",
+          "back": "articulate"
+        },
+        {
+          "front": "artificio",
+          "back": "artifice"
+        },
+        {
+          "front": "artesano",
+          "back": "artisan"
+        },
+        {
+          "front": "averiguar",
+          "back": "ascertain"
+        },
+        {
+          "front": "ascético",
+          "back": "ascetic"
+        },
+        {
+          "front": "atribuir",
+          "back": "ascribe"
+        },
+        {
+          "front": "aséptico",
+          "back": "aseptic"
+        },
+        {
+          "front": "avergonzado",
+          "back": "ashamed"
+        },
+        {
+          "front": "ceniciento",
+          "back": "ashen"
+        },
+        {
+          "front": "en tierra",
+          "back": "ashore"
+        },
+        {
+          "front": "aparte",
+          "back": "aside"
+        },
+        {
+          "front": "torcido",
+          "back": "askew"
+        },
+        {
+          "front": "dormido",
+          "back": "asleep"
+        },
+        {
+          "front": "aspiración",
+          "back": "aspiration"
+        },
+        {
+          "front": "asaltar",
+          "back": "assail"
+        },
+        {
+          "front": "asesino",
+          "back": "assassin"
+        },
+        {
+          "front": "asesinar",
+          "back": "assassinate"
+        },
+        {
+          "front": "ensayar",
+          "back": "assay"
+        },
+        {
+          "front": "conjunto",
+          "back": "assemblage"
+        },
+        {
+          "front": "asamblea",
+          "back": "assembly"
+        },
+        {
+          "front": "asentir",
+          "back": "assent"
+        },
+        {
+          "front": "afirmación",
+          "back": "assertion"
+        },
+        {
+          "front": "evaluación",
+          "back": "assessment"
+        },
+        {
+          "front": "asiduo",
+          "back": "assiduous"
+        },
+        {
+          "front": "asignación",
+          "back": "assignment"
+        },
+        {
+          "front": "asimilar",
+          "back": "assimilate"
+        },
+        {
+          "front": "asistencia",
+          "back": "assistance"
+        },
+        {
+          "front": "asistente",
+          "back": "assistant"
+        },
+        {
+          "front": "asociación",
+          "back": "association"
+        },
+        {
+          "front": "surtido",
+          "back": "assorted"
+        },
+        {
+          "front": "surtido",
+          "back": "assortment"
+        },
+        {
+          "front": "aplacar",
+          "back": "assuage"
+        },
+        {
+          "front": "suposición",
+          "back": "assumption"
+        },
+        {
+          "front": "garantía",
+          "back": "assurance"
+        },
+        {
+          "front": "asteroide",
+          "back": "asteroid"
+        },
+        {
+          "front": "asma",
+          "back": "asthma"
+        },
+        {
+          "front": "asombrar",
+          "back": "astound"
+        },
+        {
+          "front": "extraviado",
+          "back": "astray"
+        },
+        {
+          "front": "a horcajadas",
+          "back": "astride"
+        },
+        {
+          "front": "astrología",
+          "back": "astrology"
+        },
+        {
+          "front": "astronauta",
+          "back": "astronaut"
+        },
+        {
+          "front": "astronomía",
+          "back": "astronomy"
+        },
+        {
+          "front": "astuto",
+          "back": "astute"
+        },
+        {
+          "front": "asilo",
+          "back": "asylum"
+        },
+        {
+          "front": "asimetría",
+          "back": "asymmetry"
+        },
+        {
+          "front": "ateo",
+          "back": "atheist"
+        },
+        {
+          "front": "atleta",
+          "back": "athlete"
+        },
+        {
+          "front": "atlético",
+          "back": "athletic"
+        },
+        {
+          "front": "atlas",
+          "back": "atlas"
+        },
+        {
+          "front": "atmosférico",
+          "back": "atmospheric"
+        },
+        {
+          "front": "átomo",
+          "back": "atom"
+        },
+        {
+          "front": "atómico",
+          "back": "atomic"
+        },
+        {
+          "front": "expiar",
+          "back": "atone"
+        },
+        {
+          "front": "atroz",
+          "back": "atrocious"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,920 @@
+{
+  "version": "1.0",
+  "exportDate": "2025-12-18T00:00:00.000Z",
+  "decks": [
+    {
+      "name": "Español B1",
+      "icon": "🇪🇸",
+      "cards": [
+        {
+          "front": "lograr",
+          "back": "achieve"
+        },
+        {
+          "front": "admitir",
+          "back": "admit"
+        },
+        {
+          "front": "aconsejar",
+          "back": "advise"
+        },
+        {
+          "front": "permitirse",
+          "back": "afford"
+        },
+        {
+          "front": "estar de acuerdo",
+          "back": "agree"
+        },
+        {
+          "front": "permitir",
+          "back": "allow"
+        },
+        {
+          "front": "anunciar",
+          "back": "announce"
+        },
+        {
+          "front": "disculparse",
+          "back": "apologize"
+        },
+        {
+          "front": "aparecer",
+          "back": "appear"
+        },
+        {
+          "front": "apreciar",
+          "back": "appreciate"
+        },
+        {
+          "front": "acercarse",
+          "back": "approach"
+        },
+        {
+          "front": "discutir",
+          "back": "argue"
+        },
+        {
+          "front": "arreglar",
+          "back": "arrange"
+        },
+        {
+          "front": "llegar",
+          "back": "arrive"
+        },
+        {
+          "front": "asumir",
+          "back": "assume"
+        },
+        {
+          "front": "adjuntar",
+          "back": "attach"
+        },
+        {
+          "front": "asistir",
+          "back": "attend"
+        },
+        {
+          "front": "atraer",
+          "back": "attract"
+        },
+        {
+          "front": "evitar",
+          "back": "avoid"
+        },
+        {
+          "front": "comportarse",
+          "back": "behave"
+        },
+        {
+          "front": "pertenecer",
+          "back": "belong"
+        },
+        {
+          "front": "culpar",
+          "back": "blame"
+        },
+        {
+          "front": "pedir prestado",
+          "back": "borrow"
+        },
+        {
+          "front": "respirar",
+          "back": "breath"
+        },
+        {
+          "front": "cancelar",
+          "back": "cancel"
+        },
+        {
+          "front": "cuidar",
+          "back": "care"
+        },
+        {
+          "front": "celebrar",
+          "back": "celebrate"
+        },
+        {
+          "front": "cambiar",
+          "back": "change"
+        },
+        {
+          "front": "cobrar",
+          "back": "charge"
+        },
+        {
+          "front": "perseguir",
+          "back": "chase"
+        },
+        {
+          "front": "verificar",
+          "back": "check"
+        },
+        {
+          "front": "elegir",
+          "back": "choose"
+        },
+        {
+          "front": "reclamar",
+          "back": "claim"
+        },
+        {
+          "front": "escalar",
+          "back": "climb"
+        },
+        {
+          "front": "recolectar",
+          "back": "collect"
+        },
+        {
+          "front": "combinar",
+          "back": "combine"
+        },
+        {
+          "front": "comentar",
+          "back": "comment"
+        },
+        {
+          "front": "comunicar",
+          "back": "communicate"
+        },
+        {
+          "front": "comparar",
+          "back": "compare"
+        },
+        {
+          "front": "competir",
+          "back": "compete"
+        },
+        {
+          "front": "quejarse",
+          "back": "complain"
+        },
+        {
+          "front": "completar",
+          "back": "complete"
+        },
+        {
+          "front": "concentrarse",
+          "back": "concentrate"
+        },
+        {
+          "front": "preocupar",
+          "back": "concern"
+        },
+        {
+          "front": "concluir",
+          "back": "conclude"
+        },
+        {
+          "front": "confirmar",
+          "back": "confirm"
+        },
+        {
+          "front": "conectar",
+          "back": "connect"
+        },
+        {
+          "front": "considerar",
+          "back": "consider"
+        },
+        {
+          "front": "consistir",
+          "back": "consist"
+        },
+        {
+          "front": "contener",
+          "back": "contain"
+        },
+        {
+          "front": "continuar",
+          "back": "continue"
+        },
+        {
+          "front": "contribuir",
+          "back": "contribute"
+        },
+        {
+          "front": "controlar",
+          "back": "control"
+        },
+        {
+          "front": "convencer",
+          "back": "convince"
+        },
+        {
+          "front": "copiar",
+          "back": "copy"
+        },
+        {
+          "front": "contar",
+          "back": "count"
+        },
+        {
+          "front": "cubrir",
+          "back": "cover"
+        },
+        {
+          "front": "crear",
+          "back": "create"
+        },
+        {
+          "front": "cruzar",
+          "back": "cross"
+        },
+        {
+          "front": "dañar",
+          "back": "damage"
+        },
+        {
+          "front": "tratar",
+          "back": "deal"
+        },
+        {
+          "front": "debatir",
+          "back": "debate"
+        },
+        {
+          "front": "decidir",
+          "back": "decide"
+        },
+        {
+          "front": "defender",
+          "back": "defend"
+        },
+        {
+          "front": "retrasar",
+          "back": "delay"
+        },
+        {
+          "front": "entregar",
+          "back": "deliver"
+        },
+        {
+          "front": "exigir",
+          "back": "demand"
+        },
+        {
+          "front": "depender",
+          "back": "depend"
+        },
+        {
+          "front": "describir",
+          "back": "describe"
+        },
+        {
+          "front": "merecer",
+          "back": "deserve"
+        },
+        {
+          "front": "diseñar",
+          "back": "design"
+        },
+        {
+          "front": "destruir",
+          "back": "destroy"
+        },
+        {
+          "front": "desarrollar",
+          "back": "develop"
+        },
+        {
+          "front": "diferir",
+          "back": "differ"
+        },
+        {
+          "front": "descubrir",
+          "back": "discover"
+        },
+        {
+          "front": "discutir",
+          "back": "discuss"
+        },
+        {
+          "front": "dividir",
+          "back": "divide"
+        },
+        {
+          "front": "dudar",
+          "back": "doubt"
+        },
+        {
+          "front": "ganar",
+          "back": "earn"
+        },
+        {
+          "front": "educar",
+          "back": "educate"
+        },
+        {
+          "front": "efecto",
+          "back": "effect"
+        },
+        {
+          "front": "esfuerzo",
+          "back": "effort"
+        },
+        {
+          "front": "alentar",
+          "back": "encourage"
+        },
+        {
+          "front": "enemigo",
+          "back": "enemy"
+        },
+        {
+          "front": "energía",
+          "back": "energy"
+        },
+        {
+          "front": "comprometerse",
+          "back": "engage"
+        },
+        {
+          "front": "disfrutar",
+          "back": "enjoy"
+        },
+        {
+          "front": "asegurar",
+          "back": "ensure"
+        },
+        {
+          "front": "entrar",
+          "back": "enter"
+        },
+        {
+          "front": "medio ambiente",
+          "back": "environment"
+        },
+        {
+          "front": "igual",
+          "back": "equal"
+        },
+        {
+          "front": "equipo",
+          "back": "equipment"
+        },
+        {
+          "front": "escapar",
+          "back": "escape"
+        },
+        {
+          "front": "establecer",
+          "back": "establish"
+        },
+        {
+          "front": "estimar",
+          "back": "estimate"
+        },
+        {
+          "front": "examinar",
+          "back": "examine"
+        },
+        {
+          "front": "excepto",
+          "back": "except"
+        },
+        {
+          "front": "intercambiar",
+          "back": "exchange"
+        },
+        {
+          "front": "emocionar",
+          "back": "excite"
+        },
+        {
+          "front": "excusa",
+          "back": "excuse"
+        },
+        {
+          "front": "ejercicio",
+          "back": "exercise"
+        },
+        {
+          "front": "existir",
+          "back": "exist"
+        },
+        {
+          "front": "esperar",
+          "back": "expect"
+        },
+        {
+          "front": "experiencia",
+          "back": "experience"
+        },
+        {
+          "front": "experimento",
+          "back": "experiment"
+        },
+        {
+          "front": "explicar",
+          "back": "explain"
+        },
+        {
+          "front": "explorar",
+          "back": "explore"
+        },
+        {
+          "front": "expresar",
+          "back": "express"
+        },
+        {
+          "front": "extender",
+          "back": "extend"
+        },
+        {
+          "front": "enfrentar",
+          "back": "face"
+        },
+        {
+          "front": "fallar",
+          "back": "fail"
+        },
+        {
+          "front": "justo",
+          "back": "fair"
+        },
+        {
+          "front": "fe",
+          "back": "faith"
+        },
+        {
+          "front": "familiar",
+          "back": "familiar"
+        },
+        {
+          "front": "culpa",
+          "back": "fault"
+        },
+        {
+          "front": "favor",
+          "back": "favor"
+        },
+        {
+          "front": "miedo",
+          "back": "fear"
+        },
+        {
+          "front": "característica",
+          "back": "feature"
+        },
+        {
+          "front": "alimentar",
+          "back": "feed"
+        },
+        {
+          "front": "luchar",
+          "back": "fight"
+        },
+        {
+          "front": "llenar",
+          "back": "fill"
+        },
+        {
+          "front": "final",
+          "back": "final"
+        },
+        {
+          "front": "arreglar",
+          "back": "fix"
+        },
+        {
+          "front": "vuelo",
+          "back": "flight"
+        },
+        {
+          "front": "fluir",
+          "back": "flow"
+        },
+        {
+          "front": "doblar",
+          "back": "fold"
+        },
+        {
+          "front": "seguir",
+          "back": "follow"
+        },
+        {
+          "front": "forzar",
+          "back": "force"
+        },
+        {
+          "front": "extranjero",
+          "back": "foreign"
+        },
+        {
+          "front": "olvidar",
+          "back": "forget"
+        },
+        {
+          "front": "perdonar",
+          "back": "forgive"
+        },
+        {
+          "front": "forma",
+          "back": "form"
+        },
+        {
+          "front": "adelante",
+          "back": "forward"
+        },
+        {
+          "front": "libertad",
+          "back": "freedom"
+        },
+        {
+          "front": "congelar",
+          "back": "freeze"
+        },
+        {
+          "front": "fresco",
+          "back": "fresh"
+        },
+        {
+          "front": "asustar",
+          "back": "frighten"
+        },
+        {
+          "front": "muebles",
+          "back": "furniture"
+        },
+        {
+          "front": "ganar",
+          "back": "gain"
+        },
+        {
+          "front": "reunir",
+          "back": "gather"
+        },
+        {
+          "front": "general",
+          "back": "general"
+        },
+        {
+          "front": "generación",
+          "back": "generation"
+        },
+        {
+          "front": "generoso",
+          "back": "generous"
+        },
+        {
+          "front": "gentil",
+          "back": "gentle"
+        },
+        {
+          "front": "meta",
+          "back": "goal"
+        },
+        {
+          "front": "agarrar",
+          "back": "grab"
+        },
+        {
+          "front": "graduarse",
+          "back": "graduate"
+        },
+        {
+          "front": "grandioso",
+          "back": "grand"
+        },
+        {
+          "front": "conceder",
+          "back": "grant"
+        },
+        {
+          "front": "agradecido",
+          "back": "grateful"
+        },
+        {
+          "front": "saludar",
+          "back": "greet"
+        },
+        {
+          "front": "suelo",
+          "back": "ground"
+        },
+        {
+          "front": "grupo",
+          "back": "group"
+        },
+        {
+          "front": "crecer",
+          "back": "grow"
+        },
+        {
+          "front": "garantizar",
+          "back": "guarantee"
+        },
+        {
+          "front": "guardia",
+          "back": "guard"
+        },
+        {
+          "front": "adivinar",
+          "back": "guess"
+        },
+        {
+          "front": "invitado",
+          "back": "guest"
+        },
+        {
+          "front": "guía",
+          "back": "guide"
+        },
+        {
+          "front": "culpable",
+          "back": "guilty"
+        },
+        {
+          "front": "hábito",
+          "back": "habit"
+        },
+        {
+          "front": "manejar",
+          "back": "handle"
+        },
+        {
+          "front": "colgar",
+          "back": "hang"
+        },
+        {
+          "front": "suceder",
+          "back": "happen"
+        },
+        {
+          "front": "dañar",
+          "back": "harm"
+        },
+        {
+          "front": "cosecha",
+          "back": "harvest"
+        },
+        {
+          "front": "dudar",
+          "back": "hesitate"
+        },
+        {
+          "front": "esconder",
+          "back": "hide"
+        },
+        {
+          "front": "contratar",
+          "back": "hire"
+        },
+        {
+          "front": "golpear",
+          "back": "hit"
+        },
+        {
+          "front": "sostener",
+          "back": "hold"
+        },
+        {
+          "front": "honesto",
+          "back": "honest"
+        },
+        {
+          "front": "honor",
+          "back": "honor"
+        },
+        {
+          "front": "esperanza",
+          "back": "hope"
+        },
+        {
+          "front": "anfitrión",
+          "back": "host"
+        },
+        {
+          "front": "enorme",
+          "back": "huge"
+        },
+        {
+          "front": "humano",
+          "back": "human"
+        },
+        {
+          "front": "humilde",
+          "back": "humble"
+        },
+        {
+          "front": "humor",
+          "back": "humor"
+        },
+        {
+          "front": "cazar",
+          "back": "hunt"
+        },
+        {
+          "front": "apresurarse",
+          "back": "hurry"
+        },
+        {
+          "front": "herir",
+          "back": "hurt"
+        },
+        {
+          "front": "ignorar",
+          "back": "ignore"
+        },
+        {
+          "front": "imaginar",
+          "back": "imagine"
+        },
+        {
+          "front": "inmediato",
+          "back": "immediate"
+        },
+        {
+          "front": "impresionar",
+          "back": "impress"
+        },
+        {
+          "front": "mejorar",
+          "back": "improve"
+        },
+        {
+          "front": "incluir",
+          "back": "include"
+        },
+        {
+          "front": "ingreso",
+          "back": "income"
+        },
+        {
+          "front": "aumentar",
+          "back": "increase"
+        },
+        {
+          "front": "independiente",
+          "back": "independent"
+        },
+        {
+          "front": "indicar",
+          "back": "indicate"
+        },
+        {
+          "front": "individual",
+          "back": "individual"
+        },
+        {
+          "front": "industria",
+          "back": "industry"
+        },
+        {
+          "front": "influencia",
+          "back": "influence"
+        },
+        {
+          "front": "informar",
+          "back": "inform"
+        },
+        {
+          "front": "inicial",
+          "back": "initial"
+        },
+        {
+          "front": "lesionar",
+          "back": "injure"
+        },
+        {
+          "front": "inocente",
+          "back": "innocent"
+        },
+        {
+          "front": "insistir",
+          "back": "insist"
+        },
+        {
+          "front": "en cambio",
+          "back": "instead"
+        },
+        {
+          "front": "inteligencia",
+          "back": "intelligence"
+        },
+        {
+          "front": "intentar",
+          "back": "intend"
+        },
+        {
+          "front": "interés",
+          "back": "interest"
+        },
+        {
+          "front": "interrumpir",
+          "back": "interrupt"
+        },
+        {
+          "front": "presentar",
+          "back": "introduce"
+        },
+        {
+          "front": "inventar",
+          "back": "invent"
+        },
+        {
+          "front": "invertir",
+          "back": "invest"
+        },
+        {
+          "front": "investigar",
+          "back": "investigate"
+        },
+        {
+          "front": "invitar",
+          "back": "invite"
+        },
+        {
+          "front": "involucrar",
+          "back": "involve"
+        },
+        {
+          "front": "tema",
+          "back": "issue"
+        },
+        {
+          "front": "artículo",
+          "back": "item"
+        },
+        {
+          "front": "celoso",
+          "back": "jealous"
+        },
+        {
+          "front": "broma",
+          "back": "joke"
+        },
+        {
+          "front": "viaje",
+          "back": "journey"
+        },
+        {
+          "front": "juzgar",
+          "back": "judge"
+        },
+        {
+          "front": "saltar",
+          "back": "jump"
+        },
+        {
+          "front": "justicia",
+          "back": "justice"
+        },
+        {
+          "front": "justificar",
+          "back": "justify"
+        },
+        {
+          "front": "entusiasta",
+          "back": "keen"
+        },
+        {
+          "front": "mantener",
+          "back": "keep"
+        },
+        {
+          "front": "clave",
+          "back": "key"
+        },
+        {
+          "front": "patear",
+          "back": "kick"
+        },
+        {
+          "front": "matar",
+          "back": "kill"
+        },
+        {
+          "front": "amable",
+          "back": "kind"
+        },
+        {
+          "front": "reino",
+          "back": "kingdom"
+        }
+      ]
+    }
+  ]
+}

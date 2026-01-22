@@ -1,0 +1,964 @@
+{
+  "version": "1.0",
+  "exportDate": "2025-12-18T00:00:00.000Z",
+  "decks": [
+    {
+      "name": "Español A2",
+      "icon": "🇪🇸",
+      "cards": [
+        {
+          "front": "calle",
+          "back": "street"
+        },
+        {
+          "front": "ciudad",
+          "back": "city"
+        },
+        {
+          "front": "pueblo",
+          "back": "town"
+        },
+        {
+          "front": "aldea",
+          "back": "village"
+        },
+        {
+          "front": "país",
+          "back": "country"
+        },
+        {
+          "front": "mundo",
+          "back": "world"
+        },
+        {
+          "front": "coche",
+          "back": "car"
+        },
+        {
+          "front": "autobús",
+          "back": "bus"
+        },
+        {
+          "front": "tren",
+          "back": "train"
+        },
+        {
+          "front": "avión",
+          "back": "plane"
+        },
+        {
+          "front": "bicicleta",
+          "back": "bicycle"
+        },
+        {
+          "front": "taxi",
+          "back": "taxi"
+        },
+        {
+          "front": "estación",
+          "back": "station"
+        },
+        {
+          "front": "aeropuerto",
+          "back": "airport"
+        },
+        {
+          "front": "boleto",
+          "back": "ticket"
+        },
+        {
+          "front": "hotel",
+          "back": "hotel"
+        },
+        {
+          "front": "restaurante",
+          "back": "restaurant"
+        },
+        {
+          "front": "tienda",
+          "back": "shop"
+        },
+        {
+          "front": "tienda",
+          "back": "store"
+        },
+        {
+          "front": "mercado",
+          "back": "market"
+        },
+        {
+          "front": "banco",
+          "back": "bank"
+        },
+        {
+          "front": "oficina de correos",
+          "back": "post office"
+        },
+        {
+          "front": "hospital",
+          "back": "hospital"
+        },
+        {
+          "front": "escuela",
+          "back": "school"
+        },
+        {
+          "front": "universidad",
+          "back": "university"
+        },
+        {
+          "front": "biblioteca",
+          "back": "library"
+        },
+        {
+          "front": "museo",
+          "back": "museum"
+        },
+        {
+          "front": "cine",
+          "back": "cinema"
+        },
+        {
+          "front": "teatro",
+          "back": "theater"
+        },
+        {
+          "front": "parque",
+          "back": "park"
+        },
+        {
+          "front": "playa",
+          "back": "beach"
+        },
+        {
+          "front": "montaña",
+          "back": "mountain"
+        },
+        {
+          "front": "río",
+          "back": "river"
+        },
+        {
+          "front": "lago",
+          "back": "lake"
+        },
+        {
+          "front": "mar",
+          "back": "sea"
+        },
+        {
+          "front": "océano",
+          "back": "ocean"
+        },
+        {
+          "front": "bosque",
+          "back": "forest"
+        },
+        {
+          "front": "árbol",
+          "back": "tree"
+        },
+        {
+          "front": "flor",
+          "back": "flower"
+        },
+        {
+          "front": "hierba",
+          "back": "grass"
+        },
+        {
+          "front": "cielo",
+          "back": "sky"
+        },
+        {
+          "front": "sol",
+          "back": "sun"
+        },
+        {
+          "front": "luna",
+          "back": "moon"
+        },
+        {
+          "front": "estrella",
+          "back": "star"
+        },
+        {
+          "front": "nube",
+          "back": "cloud"
+        },
+        {
+          "front": "lluvia",
+          "back": "rain"
+        },
+        {
+          "front": "nieve",
+          "back": "snow"
+        },
+        {
+          "front": "viento",
+          "back": "wind"
+        },
+        {
+          "front": "clima",
+          "back": "weather"
+        },
+        {
+          "front": "estación",
+          "back": "season"
+        },
+        {
+          "front": "primavera",
+          "back": "spring"
+        },
+        {
+          "front": "verano",
+          "back": "summer"
+        },
+        {
+          "front": "otoño",
+          "back": "autumn"
+        },
+        {
+          "front": "invierno",
+          "back": "winter"
+        },
+        {
+          "front": "lunes",
+          "back": "Monday"
+        },
+        {
+          "front": "martes",
+          "back": "Tuesday"
+        },
+        {
+          "front": "miércoles",
+          "back": "Wednesday"
+        },
+        {
+          "front": "jueves",
+          "back": "Thursday"
+        },
+        {
+          "front": "viernes",
+          "back": "Friday"
+        },
+        {
+          "front": "sábado",
+          "back": "Saturday"
+        },
+        {
+          "front": "domingo",
+          "back": "Sunday"
+        },
+        {
+          "front": "enero",
+          "back": "January"
+        },
+        {
+          "front": "febrero",
+          "back": "February"
+        },
+        {
+          "front": "marzo",
+          "back": "March"
+        },
+        {
+          "front": "abril",
+          "back": "April"
+        },
+        {
+          "front": "mayo",
+          "back": "May"
+        },
+        {
+          "front": "junio",
+          "back": "June"
+        },
+        {
+          "front": "julio",
+          "back": "July"
+        },
+        {
+          "front": "agosto",
+          "back": "August"
+        },
+        {
+          "front": "septiembre",
+          "back": "September"
+        },
+        {
+          "front": "octubre",
+          "back": "October"
+        },
+        {
+          "front": "noviembre",
+          "back": "November"
+        },
+        {
+          "front": "diciembre",
+          "back": "December"
+        },
+        {
+          "front": "hoy",
+          "back": "today"
+        },
+        {
+          "front": "ayer",
+          "back": "yesterday"
+        },
+        {
+          "front": "mañana",
+          "back": "tomorrow"
+        },
+        {
+          "front": "mañana",
+          "back": "morning"
+        },
+        {
+          "front": "tarde",
+          "back": "afternoon"
+        },
+        {
+          "front": "tarde/noche",
+          "back": "evening"
+        },
+        {
+          "front": "noche",
+          "back": "night"
+        },
+        {
+          "front": "día",
+          "back": "day"
+        },
+        {
+          "front": "semana",
+          "back": "week"
+        },
+        {
+          "front": "mes",
+          "back": "month"
+        },
+        {
+          "front": "año",
+          "back": "year"
+        },
+        {
+          "front": "tiempo/hora",
+          "back": "time"
+        },
+        {
+          "front": "hora",
+          "back": "hour"
+        },
+        {
+          "front": "minuto",
+          "back": "minute"
+        },
+        {
+          "front": "segundo",
+          "back": "second"
+        },
+        {
+          "front": "temprano",
+          "back": "early"
+        },
+        {
+          "front": "tarde",
+          "back": "late"
+        },
+        {
+          "front": "ahora",
+          "back": "now"
+        },
+        {
+          "front": "pronto",
+          "back": "soon"
+        },
+        {
+          "front": "ya",
+          "back": "already"
+        },
+        {
+          "front": "todavía",
+          "back": "still"
+        },
+        {
+          "front": "siempre",
+          "back": "always"
+        },
+        {
+          "front": "nunca",
+          "back": "never"
+        },
+        {
+          "front": "a veces",
+          "back": "sometimes"
+        },
+        {
+          "front": "a menudo",
+          "back": "often"
+        },
+        {
+          "front": "usualmente",
+          "back": "usually"
+        },
+        {
+          "front": "trabajo",
+          "back": "work"
+        },
+        {
+          "front": "empleo",
+          "back": "job"
+        },
+        {
+          "front": "oficina",
+          "back": "office"
+        },
+        {
+          "front": "jefe",
+          "back": "boss"
+        },
+        {
+          "front": "trabajador",
+          "back": "worker"
+        },
+        {
+          "front": "empleado",
+          "back": "employee"
+        },
+        {
+          "front": "profesor",
+          "back": "teacher"
+        },
+        {
+          "front": "estudiante",
+          "back": "student"
+        },
+        {
+          "front": "médico",
+          "back": "doctor"
+        },
+        {
+          "front": "enfermera",
+          "back": "nurse"
+        },
+        {
+          "front": "conductor",
+          "back": "driver"
+        },
+        {
+          "front": "cocinero",
+          "back": "cook"
+        },
+        {
+          "front": "camarero",
+          "back": "waiter"
+        },
+        {
+          "front": "policía",
+          "back": "police"
+        },
+        {
+          "front": "abogado",
+          "back": "lawyer"
+        },
+        {
+          "front": "ingeniero",
+          "back": "engineer"
+        },
+        {
+          "front": "artista",
+          "back": "artist"
+        },
+        {
+          "front": "cantante",
+          "back": "singer"
+        },
+        {
+          "front": "actor",
+          "back": "actor"
+        },
+        {
+          "front": "escritor",
+          "back": "writer"
+        },
+        {
+          "front": "dinero",
+          "back": "money"
+        },
+        {
+          "front": "precio",
+          "back": "price"
+        },
+        {
+          "front": "costo",
+          "back": "cost"
+        },
+        {
+          "front": "barato",
+          "back": "cheap"
+        },
+        {
+          "front": "caro",
+          "back": "expensive"
+        },
+        {
+          "front": "gratis",
+          "back": "free"
+        },
+        {
+          "front": "rico",
+          "back": "rich"
+        },
+        {
+          "front": "pobre",
+          "back": "poor"
+        },
+        {
+          "front": "color",
+          "back": "color"
+        },
+        {
+          "front": "blanco",
+          "back": "white"
+        },
+        {
+          "front": "negro",
+          "back": "black"
+        },
+        {
+          "front": "rojo",
+          "back": "red"
+        },
+        {
+          "front": "azul",
+          "back": "blue"
+        },
+        {
+          "front": "verde",
+          "back": "green"
+        },
+        {
+          "front": "amarillo",
+          "back": "yellow"
+        },
+        {
+          "front": "naranja",
+          "back": "orange"
+        },
+        {
+          "front": "marrón",
+          "back": "brown"
+        },
+        {
+          "front": "gris",
+          "back": "grey"
+        },
+        {
+          "front": "rosa",
+          "back": "pink"
+        },
+        {
+          "front": "morado",
+          "back": "purple"
+        },
+        {
+          "front": "ropa",
+          "back": "clothes"
+        },
+        {
+          "front": "camisa",
+          "back": "shirt"
+        },
+        {
+          "front": "pantalones",
+          "back": "pants"
+        },
+        {
+          "front": "vestido",
+          "back": "dress"
+        },
+        {
+          "front": "falda",
+          "back": "skirt"
+        },
+        {
+          "front": "abrigo",
+          "back": "coat"
+        },
+        {
+          "front": "chaqueta",
+          "back": "jacket"
+        },
+        {
+          "front": "zapatos",
+          "back": "shoes"
+        },
+        {
+          "front": "calcetines",
+          "back": "socks"
+        },
+        {
+          "front": "sombrero",
+          "back": "hat"
+        },
+        {
+          "front": "gafas",
+          "back": "glasses"
+        },
+        {
+          "front": "reloj",
+          "back": "watch"
+        },
+        {
+          "front": "anillo",
+          "back": "ring"
+        },
+        {
+          "front": "cuerpo",
+          "back": "body"
+        },
+        {
+          "front": "cabeza",
+          "back": "head"
+        },
+        {
+          "front": "cara",
+          "back": "face"
+        },
+        {
+          "front": "ojo",
+          "back": "eye"
+        },
+        {
+          "front": "oreja",
+          "back": "ear"
+        },
+        {
+          "front": "nariz",
+          "back": "nose"
+        },
+        {
+          "front": "boca",
+          "back": "mouth"
+        },
+        {
+          "front": "diente",
+          "back": "tooth"
+        },
+        {
+          "front": "lengua",
+          "back": "tongue"
+        },
+        {
+          "front": "labio",
+          "back": "lip"
+        },
+        {
+          "front": "cabello",
+          "back": "hair"
+        },
+        {
+          "front": "cuello",
+          "back": "neck"
+        },
+        {
+          "front": "hombro",
+          "back": "shoulder"
+        },
+        {
+          "front": "brazo",
+          "back": "arm"
+        },
+        {
+          "front": "mano",
+          "back": "hand"
+        },
+        {
+          "front": "dedo",
+          "back": "finger"
+        },
+        {
+          "front": "pierna",
+          "back": "leg"
+        },
+        {
+          "front": "pie",
+          "back": "foot"
+        },
+        {
+          "front": "rodilla",
+          "back": "knee"
+        },
+        {
+          "front": "espalda",
+          "back": "back"
+        },
+        {
+          "front": "pecho",
+          "back": "chest"
+        },
+        {
+          "front": "estómago",
+          "back": "stomach"
+        },
+        {
+          "front": "corazón",
+          "back": "heart"
+        },
+        {
+          "front": "sangre",
+          "back": "blood"
+        },
+        {
+          "front": "animal",
+          "back": "animal"
+        },
+        {
+          "front": "perro",
+          "back": "dog"
+        },
+        {
+          "front": "gato",
+          "back": "cat"
+        },
+        {
+          "front": "pájaro",
+          "back": "bird"
+        },
+        {
+          "front": "caballo",
+          "back": "horse"
+        },
+        {
+          "front": "vaca",
+          "back": "cow"
+        },
+        {
+          "front": "cerdo",
+          "back": "pig"
+        },
+        {
+          "front": "pollo",
+          "back": "chicken"
+        },
+        {
+          "front": "ratón",
+          "back": "mouse"
+        },
+        {
+          "front": "león",
+          "back": "lion"
+        },
+        {
+          "front": "elefante",
+          "back": "elephant"
+        },
+        {
+          "front": "oso",
+          "back": "bear"
+        },
+        {
+          "front": "tigre",
+          "back": "tiger"
+        },
+        {
+          "front": "mono",
+          "back": "monkey"
+        },
+        {
+          "front": "teléfono",
+          "back": "phone"
+        },
+        {
+          "front": "computadora",
+          "back": "computer"
+        },
+        {
+          "front": "televisión",
+          "back": "television"
+        },
+        {
+          "front": "radio",
+          "back": "radio"
+        },
+        {
+          "front": "cámara",
+          "back": "camera"
+        },
+        {
+          "front": "imagen",
+          "back": "picture"
+        },
+        {
+          "front": "foto",
+          "back": "photo"
+        },
+        {
+          "front": "música",
+          "back": "music"
+        },
+        {
+          "front": "canción",
+          "back": "song"
+        },
+        {
+          "front": "película",
+          "back": "film"
+        },
+        {
+          "front": "juego",
+          "back": "game"
+        },
+        {
+          "front": "deporte",
+          "back": "sport"
+        },
+        {
+          "front": "fútbol",
+          "back": "football"
+        },
+        {
+          "front": "tenis",
+          "back": "tennis"
+        },
+        {
+          "front": "natación",
+          "back": "swimming"
+        },
+        {
+          "front": "pelota",
+          "back": "ball"
+        },
+        {
+          "front": "equipo",
+          "back": "team"
+        },
+        {
+          "front": "ganar",
+          "back": "win"
+        },
+        {
+          "front": "perder",
+          "back": "lose"
+        },
+        {
+          "front": "carta",
+          "back": "letter"
+        },
+        {
+          "front": "correo electrónico",
+          "back": "email"
+        },
+        {
+          "front": "mensaje",
+          "back": "message"
+        },
+        {
+          "front": "noticias",
+          "back": "news"
+        },
+        {
+          "front": "historia",
+          "back": "story"
+        },
+        {
+          "front": "palabra",
+          "back": "word"
+        },
+        {
+          "front": "idioma",
+          "back": "language"
+        },
+        {
+          "front": "pregunta",
+          "back": "question"
+        },
+        {
+          "front": "respuesta",
+          "back": "answer"
+        },
+        {
+          "front": "idea",
+          "back": "idea"
+        },
+        {
+          "front": "problema",
+          "back": "problem"
+        },
+        {
+          "front": "solución",
+          "back": "solution"
+        },
+        {
+          "front": "error",
+          "back": "mistake"
+        },
+        {
+          "front": "edad",
+          "back": "age"
+        },
+        {
+          "front": "cumpleaños",
+          "back": "birthday"
+        },
+        {
+          "front": "fiesta",
+          "back": "party"
+        },
+        {
+          "front": "regalo",
+          "back": "gift"
+        },
+        {
+          "front": "vacaciones",
+          "back": "holiday"
+        },
+        {
+          "front": "Navidad",
+          "back": "Christmas"
+        },
+        {
+          "front": "cena",
+          "back": "dinner"
+        },
+        {
+          "front": "almuerzo",
+          "back": "lunch"
+        },
+        {
+          "front": "desayuno",
+          "back": "breakfast"
+        },
+        {
+          "front": "comida",
+          "back": "meal"
+        },
+        {
+          "front": "sabor",
+          "back": "taste"
+        },
+        {
+          "front": "olor",
+          "back": "smell"
+        },
+        {
+          "front": "dulce",
+          "back": "sweet"
+        },
+        {
+          "front": "agrio",
+          "back": "sour"
+        },
+        {
+          "front": "amargo",
+          "back": "bitter"
+        },
+        {
+          "front": "picante",
+          "back": "spicy"
+        }
+      ]
+    }
+  ]
+}
